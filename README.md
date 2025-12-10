@@ -1,4 +1,4 @@
-# 👋 Hi, I'm  Jasser Chtourou
+# 👋 Hi, I'm Jasser Chtourou
 
 💻 AI & Data Engineer | NLP & RAG Specialist  
 📍 Based in Germany  
@@ -27,23 +27,19 @@
 ## 🚀 Selected Projects
 
 ### **AI-Powered Surgical Chatbot**
-![AI Chatbot](https://media.giphy.com/media/26AOSK8yPZt0k1Mhi/giphy.gif)  
 - Voice-enabled chatbot for surgical info, real-time 3D anatomy visualization  
 - Technologies: RAG, LangChain, PgVector, Django  
 - [Project Details & Demo](https://jasser-portfolio-topaz.vercel.app/)
 
 ### **Intelligent Trading Agent**
-![Trading](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)  
 - Time series analysis & financial predictions for 10+ Tunisian strategies  
 - Technologies: ARIMA, SARIMA, Python  
 
 ### **Object Detection with Adaptive Mask R-CNN**
-![Object Detection](https://media.giphy.com/media/3o7aD4u3oX8j9A8Xq4/giphy.gif)  
 - Improved detection accuracy on remote sensing images by 30%  
 - Technologies: Mask R-CNN, Python, Deep Learning  
 
 ### **Machine Learning IDS**
-![Cyber Security](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)  
 - Network anomaly detection using GMM, Decision Tree, KNN  
 - Improved intrusion detection accuracy by 30%  
 
@@ -56,7 +52,6 @@
 ---
 
 ## 🏆 Certifications
-![NVIDIA](https://media.giphy.com/media/xUOwGmIV7pAkgz7ECA/giphy.gif)  
 - Building Transformer-Based NLP Applications (NVIDIA)  
 - Image Modeling with Keras (DataCamp)  
 - Large Language Models (LLMs) Concepts (DataCamp)  
@@ -80,4 +75,3 @@
 - [Market Intelligence NLP System](https://github.com/jasserchtourou)  
 - [Multilingual Translation Pipeline](https://github.com/jasserchtourou)  
 - [Embeddings & Semantic Search Demo](https://github.com/jasserchtourou)  
-
