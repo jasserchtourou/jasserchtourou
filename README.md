@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Mohamed Jasser Chtourou
+# 👋 Hi, I'm  Jasser Chtourou
 
 💻 AI & Data Engineer | NLP & RAG Specialist  
-📍 Based in Germany & Tunisia  
+📍 Based in Germany  
 🎯 Passionate about building intelligent AI pipelines, semantic search, and multilingual solutions  
 
 ---
