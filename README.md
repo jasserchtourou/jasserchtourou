@@ -29,7 +29,6 @@
 ### **AI-Powered Surgical Chatbot**
 - Voice-enabled chatbot for surgical info, real-time 3D anatomy visualization  
 - Technologies: RAG, LangChain, PgVector, Django  
-- [Project Details & Demo](https://jasser-portfolio-topaz.vercel.app/)
 
 ### **Intelligent Trading Agent**
 - Time series analysis & financial predictions for 10+ Tunisian strategies  
