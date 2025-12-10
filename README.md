@@ -30,7 +30,7 @@
 - Real-time response, knowledge retrieval, and multilingual support  
 - Integrated with **vector database embeddings** for semantic search  
 
-[![Watch Video](https://img.shields.io/badge/Watch-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+[![Watch Video](https://img.shields.io/badge/Watch-Project-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/jasser-chtourou_engineering-automation-ai-activity-7356634435653353474-wuqF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD8us6cBasaAyqrfItFUD2yFuhMyds8fk3g)
 
 ---
 
@@ -152,7 +152,7 @@
 
 | Project | Highlights | Link |
 |---------|-----------|------|
-| Plug&Chat | AI Conversational Agent with RAG & vector DB | [Video](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) |
+| Plug&Chat | AI Conversational Agent with RAG & vector DB | [Video]([https://www.youtube.com/watch?v=YOUR_VIDEO_LINK](https://www.linkedin.com/posts/jasser-chtourou_engineering-automation-ai-activity-7356634435653353474-wuqF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD8us6cBasaAyqrfItFUD2yFuhMyds8fk3g)) |
 | Knowledge Graph PM | Graph-based project management recommendation system | [GitHub](https://github.com/jasserchtourou/A_knowledge_graph_system_for_Project_Management_github) |
 | AI Surgical Chatbot | Real-time voice-enabled surgical assistant | [Demo](https://ai-surgical-demo.example.com) |
 | AbrechnungAI | AI Payroll & Tax Assistant with PDF upload & chatbot | [Live Demo](https://ai-payslip-demo.onrender.com) |
