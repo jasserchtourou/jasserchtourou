@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jasser Chtourou
 
-💻 AI & Data Engineer | NLP & RAG Specialist  
+💻 AI Engineer - Python & Backend Systems   
 📍 Based in Germany  
 🎯 Passionate about building intelligent AI pipelines, semantic search, and multilingual solutions  
 
