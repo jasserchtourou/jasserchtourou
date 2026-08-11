@@ -14,10 +14,9 @@
 ---
 
 ## 📬 Contact
-- Email: [jasser278@gmail.com](mailto:jasser278@gmail.com)  
+- Email: [jasser278@gmail.com](mailto:jasser.chtourou@web.de)  
 - LinkedIn: [linkedin.com/in/jasser-chtourou](https://www.linkedin.com/in/jasser-chtourou/)  
-- GitHub: [github.com/jasserchtourou](https://github.com/jasserchtourou)  
-
+- Portfolio: [jasser-portfolio-topaz.vercel.app](https://jasser-portfolio-topaz.vercel.app/)
 ---
 
 ## 🎥 Featured Project
