@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jasser Chtourou
 
-💻 AI Engineer - Python & Backend Systems   
+💻 Full-Stack AI Engineer | Backend & AI Systems | Python · FastAPI · React · SQL  
 📍 Based in Germany  
 🎯 Passionate about building intelligent AI pipelines, semantic search, and multilingual solutions  
 
