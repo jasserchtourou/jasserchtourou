@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="377" viewBox="0 0 490 377" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#c9d1d9">
+<style>
+.l{opacity:0;animation:in .45s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}.k{fill:#7ee787;font-weight:700}.u{fill:#79c0ff;font-weight:700}.d{fill:#484f58}
+</style>
+<rect width="490" height="377" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 10a10 10 0 0 1 10-10h470a10 10 0 0 1 10 10v20H0z" fill="#161b22"/>
+<line x1="0" y1="30" x2="490" y2="30" stroke="#30363d"/>
+<circle cx="18" cy="15" r="5.5" fill="#ff5f56"/><circle cx="36" cy="15" r="5.5" fill="#ffbd2e"/><circle cx="54" cy="15" r="5.5" fill="#27c93f"/>
+<text x="245.0" y="19" text-anchor="middle" font-size="12" fill="#8b949e">jasser@chtourou: ~ — neofetch</text>
+<text x="20" y="54"><tspan fill="#58a6ff">$</tspan> neofetch</text>
+<g transform="translate(0 80.0)"><g class="l" style="animation-delay:0.35s"><text x="20"><tspan class="u">jasser</tspan>@<tspan class="u">chtourou</tspan></text></g></g>
+<g transform="translate(0 97.4)"><g class="l" style="animation-delay:0.46s"><text x="20" class="d">───────────────</text></g></g>
+<g transform="translate(0 114.8)"><g class="l" style="animation-delay:0.57s"><text x="20"><tspan class="k">Role</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">AI Engineer · LLM &amp; Agentic AI Systems</text></g></g>
+<g transform="translate(0 132.2)"><g class="l" style="animation-delay:0.68s"><text x="20"><tspan class="k">Location</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">Hannover, DE · open to Germany + remote</text></g></g>
+<g transform="translate(0 149.6)"><g class="l" style="animation-delay:0.79s"><text x="20"><tspan class="k">Prev</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">AI/Automation Eng. @ Finest Travel GmbH</text></g></g>
+<g transform="translate(0 167.0)"><g class="l" style="animation-delay:0.90s"><text x="20"></text><text x="102.5">AI Backend Eng. @ AiNext · AI Eng. @ Plug&amp;Plai</text></g></g>
+<g transform="translate(0 184.4)"><g class="l" style="animation-delay:1.01s"><text x="20"></text><text x="102.5">Python Backend Eng. @ Keejob (2M+ users)</text></g></g>
+<g transform="translate(0 201.8)"><g class="l" style="animation-delay:1.12s"><text x="20"><tspan class="k">Education</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">Eng. Diploma AI &amp; Data Science (≙ M.Sc.)</text></g></g>
+<g transform="translate(0 219.2)"><g class="l" style="animation-delay:1.23s"><text x="20"><tspan class="k">AI/LLM</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">RAG · LangGraph · LangChain · Azure OpenAI</text></g></g>
+<g transform="translate(0 236.6)"><g class="l" style="animation-delay:1.34s"><text x="20"><tspan class="k">Backend</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">Python · FastAPI · Django/DRF · Celery</text></g></g>
+<g transform="translate(0 254.0)"><g class="l" style="animation-delay:1.45s"><text x="20"><tspan class="k">Data</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">PostgreSQL/pgvector · Redis · Pinecone</text></g></g>
+<g transform="translate(0 271.4)"><g class="l" style="animation-delay:1.56s"><text x="20"><tspan class="k">Infra</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">Docker · GitHub Actions · Azure · AWS</text></g></g>
+<g transform="translate(0 288.8)"><g class="l" style="animation-delay:1.67s"><text x="20"><tspan class="k">Shipped</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">Plug&amp;Chat multi-tenant RAG · 1k+ uses/mo</text></g></g>
+<g transform="translate(0 306.2)"><g class="l" style="animation-delay:1.78s"><text x="20"><tspan class="k">Building</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">SentryMesh LLM gateway · multi-agent O2C</text></g></g>
+<g transform="translate(0 323.6)"><g class="l" style="animation-delay:1.89s"><text x="20"><tspan class="k">Languages</tspan><tspan fill="#8b949e">:</tspan></text><text x="102.5">AR · FR · EN (C1) · DE (B1)</text></g></g>
+<g transform="translate(0 341.0)"><g class="l" style="animation-delay:2.00s"><rect x="20" y="-4" width="24" height="12" rx="2" fill="#484f58"/><rect x="46" y="-4" width="24" height="12" rx="2" fill="#ff7b72"/><rect x="72" y="-4" width="24" height="12" rx="2" fill="#7ee787"/><rect x="98" y="-4" width="24" height="12" rx="2" fill="#d29922"/><rect x="124" y="-4" width="24" height="12" rx="2" fill="#79c0ff"/><rect x="150" y="-4" width="24" height="12" rx="2" fill="#d2a8ff"/><rect x="176" y="-4" width="24" height="12" rx="2" fill="#56d4dd"/><rect x="202" y="-4" width="24" height="12" rx="2" fill="#e6edf3"/></g></g>
+<g transform="translate(0 358.4)"><g class="l" style="animation-delay:2.11s"><text x="20" y="4"><tspan fill="#58a6ff">$</tspan></text><rect x="35.0" y="-7" width="7.5" height="14" fill="#7ee787" class="cur"/></g></g>
+</svg>

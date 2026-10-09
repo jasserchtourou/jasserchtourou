@@ -1,0 +1,6 @@
+# only needed locally when regenerating the ASCII portrait
+-r requirements.txt
+opencv-python
+numpy
+# optional background removal:
+# rembg
