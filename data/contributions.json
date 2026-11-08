@@ -1,16 +1,16 @@
 {
  "username": "jasserchtourou",
- "generated": "2026-11-07",
+ "generated": "2026-11-08",
  "total": 175,
  "active_days": 62,
- "current_streak": 31,
- "longest_streak": 31,
+ "current_streak": 32,
+ "longest_streak": 32,
  "best_day": {
   "date": "2026-02-18",
   "count": 12
  },
  "monthly": {
-  "2025-11": 4,
+  "2025-11": 3,
   "2025-12": 12,
   "2026-01": 47,
   "2026-02": 36,
@@ -22,44 +22,9 @@
   "2026-08": 1,
   "2026-09": 2,
   "2026-10": 50,
-  "2026-11": 10
+  "2026-11": 11
  },
  "days": [
-  {
-   "date": "2025-11-02",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-03",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-04",
-   "level": 1,
-   "count": 1
-  },
-  {
-   "date": "2025-11-05",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-06",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-07",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-08",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-11-09",
    "level": 0,
@@ -1877,6 +1842,11 @@
   },
   {
    "date": "2026-11-07",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-08",
    "level": 0,
    "count": 0
   }
