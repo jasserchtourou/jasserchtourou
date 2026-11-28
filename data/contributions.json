@@ -1,10 +1,10 @@
 {
  "username": "jasserchtourou",
- "generated": "2026-11-27",
- "total": 259,
- "active_days": 80,
- "current_streak": 51,
- "longest_streak": 51,
+ "generated": "2026-11-28",
+ "total": 260,
+ "active_days": 81,
+ "current_streak": 52,
+ "longest_streak": 52,
  "best_day": {
   "date": "2026-11-11",
   "count": 19
@@ -22,7 +22,7 @@
   "2026-08": 1,
   "2026-09": 2,
   "2026-10": 50,
-  "2026-11": 98
+  "2026-11": 99
  },
  "days": [
   {
@@ -1872,6 +1872,11 @@
   },
   {
    "date": "2026-11-27",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-28",
    "level": 0,
    "count": 0
   }
